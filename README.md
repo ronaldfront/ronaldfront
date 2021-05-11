@@ -2,8 +2,6 @@
 
 ### Fala dev's :wave:
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ronaldfront&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 <p>
 
 Me chamo Ronald, sou estudante de programação faz menos de 1 ano, comecei durante a pandemia e almejo me tornar um desenvolvedor front-end. Atualmente curso o bootcamp da Cataline 
